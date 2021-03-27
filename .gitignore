@@ -11,6 +11,8 @@ test.html
 !.vscode/extensions.json
 *.code-workspace
 
+### IntelliJ ###
+.idea*
 
 ### Node ###
 # Logs
