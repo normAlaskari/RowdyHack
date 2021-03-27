@@ -2,7 +2,7 @@
 # Strixhaven : School of Mages Classroom
 
 ### Team Members
-Jackson Gilton
+Jackson Singleton
 
 Leon Karvecz
 
